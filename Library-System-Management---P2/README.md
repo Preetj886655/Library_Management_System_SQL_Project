@@ -1,4 +1,4 @@
-# Library Management System using SQL Project --P2
+# Library Management System using SQL Project
 
 ## Project Overview
 
@@ -10,6 +10,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
+
 ## Objectives
 
 1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
@@ -20,7 +21,8 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+
+<img width="722" height="601" alt="ER_library_sql" src="https://github.com/user-attachments/assets/336bf340-91d3-4a19-bdfc-0737ae9e8836" />
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -498,4 +500,5 @@ Description: Write a CTAS query to create a new table that lists each member and
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 
